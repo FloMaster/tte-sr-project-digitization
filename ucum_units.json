@@ -1,0 +1,3067 @@
+[
+  {
+    "ucum_code": "10*",
+    "ucum_print_symbol": "10*",
+    "ucum_names": [
+      "the number ten for arbitrary powers"
+    ],
+    "ucum_common_name": "the number ten for arbitrary powers",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "10^",
+    "ucum_print_symbol": "10^",
+    "ucum_names": [
+      "the number ten for arbitrary powers"
+    ],
+    "ucum_common_name": "the number ten for arbitrary powers",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "[pi]",
+    "ucum_print_symbol": "[pi]",
+    "ucum_names": [
+      "the number pi"
+    ],
+    "ucum_common_name": "the number pi",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "%",
+    "ucum_print_symbol": "%",
+    "ucum_names": [
+      "percent"
+    ],
+    "ucum_common_name": "percent",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "[ppth]",
+    "ucum_print_symbol": "[ppth]",
+    "ucum_names": [
+      "parts per thousand"
+    ],
+    "ucum_common_name": "parts per thousand",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "[ppm]",
+    "ucum_print_symbol": "[ppm]",
+    "ucum_names": [
+      "parts per million"
+    ],
+    "ucum_common_name": "parts per million",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "[ppb]",
+    "ucum_print_symbol": "[ppb]",
+    "ucum_names": [
+      "parts per billion"
+    ],
+    "ucum_common_name": "parts per billion",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "[pptr]",
+    "ucum_print_symbol": "[pptr]",
+    "ucum_names": [
+      "parts per trillion"
+    ],
+    "ucum_common_name": "parts per trillion",
+    "ucum_dimension": null,
+    "ucum_class": "dimless"
+  },
+  {
+    "ucum_code": "mol",
+    "ucum_print_symbol": "mol",
+    "ucum_names": [
+      "mole"
+    ],
+    "ucum_common_name": "mole",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "sr",
+    "ucum_print_symbol": "sr",
+    "ucum_names": [
+      "steradian"
+    ],
+    "ucum_common_name": "steradian",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Hz",
+    "ucum_print_symbol": "Hz",
+    "ucum_names": [
+      "hertz"
+    ],
+    "ucum_common_name": "hertz",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "N",
+    "ucum_print_symbol": "N",
+    "ucum_names": [
+      "newton"
+    ],
+    "ucum_common_name": "newton",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Pa",
+    "ucum_print_symbol": "Pa",
+    "ucum_names": [
+      "pascal"
+    ],
+    "ucum_common_name": "pascal",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "J",
+    "ucum_print_symbol": "J",
+    "ucum_names": [
+      "joule"
+    ],
+    "ucum_common_name": "joule",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "W",
+    "ucum_print_symbol": "W",
+    "ucum_names": [
+      "watt"
+    ],
+    "ucum_common_name": "watt",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "A",
+    "ucum_print_symbol": "A",
+    "ucum_names": [
+      "amp\u00e8re"
+    ],
+    "ucum_common_name": "amp\u00e8re",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "V",
+    "ucum_print_symbol": "V",
+    "ucum_names": [
+      "volt"
+    ],
+    "ucum_common_name": "volt",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "F",
+    "ucum_print_symbol": "F",
+    "ucum_names": [
+      "farad"
+    ],
+    "ucum_common_name": "farad",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Ohm",
+    "ucum_print_symbol": "Ohm",
+    "ucum_names": [
+      "ohm"
+    ],
+    "ucum_common_name": "ohm",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "S",
+    "ucum_print_symbol": "S",
+    "ucum_names": [
+      "siemens"
+    ],
+    "ucum_common_name": "siemens",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Wb",
+    "ucum_print_symbol": "Wb",
+    "ucum_names": [
+      "weber"
+    ],
+    "ucum_common_name": "weber",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Cel",
+    "ucum_print_symbol": "Cel",
+    "ucum_names": [
+      "degree Celsius"
+    ],
+    "ucum_common_name": "degree Celsius",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "T",
+    "ucum_print_symbol": "T",
+    "ucum_names": [
+      "tesla"
+    ],
+    "ucum_common_name": "tesla",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "H",
+    "ucum_print_symbol": "H",
+    "ucum_names": [
+      "henry"
+    ],
+    "ucum_common_name": "henry",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "lm",
+    "ucum_print_symbol": "lm",
+    "ucum_names": [
+      "lumen"
+    ],
+    "ucum_common_name": "lumen",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "lx",
+    "ucum_print_symbol": "lx",
+    "ucum_names": [
+      "lux"
+    ],
+    "ucum_common_name": "lux",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Bq",
+    "ucum_print_symbol": "Bq",
+    "ucum_names": [
+      "becquerel"
+    ],
+    "ucum_common_name": "becquerel",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Gy",
+    "ucum_print_symbol": "Gy",
+    "ucum_names": [
+      "gray"
+    ],
+    "ucum_common_name": "gray",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "Sv",
+    "ucum_print_symbol": "Sv",
+    "ucum_names": [
+      "sievert"
+    ],
+    "ucum_common_name": "sievert",
+    "ucum_dimension": null,
+    "ucum_class": "si"
+  },
+  {
+    "ucum_code": "gon",
+    "ucum_print_symbol": "gon",
+    "ucum_names": [
+      "gon",
+      "grade"
+    ],
+    "ucum_common_name": "gon",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "deg",
+    "ucum_print_symbol": "deg",
+    "ucum_names": [
+      "degree"
+    ],
+    "ucum_common_name": "degree",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "'",
+    "ucum_print_symbol": "'",
+    "ucum_names": [
+      "minute"
+    ],
+    "ucum_common_name": "minute",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "''",
+    "ucum_print_symbol": "''",
+    "ucum_names": [
+      "second"
+    ],
+    "ucum_common_name": "second",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "l",
+    "ucum_print_symbol": "l",
+    "ucum_names": [
+      "liter"
+    ],
+    "ucum_common_name": "liter",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "L",
+    "ucum_print_symbol": "L",
+    "ucum_names": [
+      "liter"
+    ],
+    "ucum_common_name": "liter",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "ar",
+    "ucum_print_symbol": "ar",
+    "ucum_names": [
+      "are"
+    ],
+    "ucum_common_name": "are",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "min",
+    "ucum_print_symbol": "min",
+    "ucum_names": [
+      "minute"
+    ],
+    "ucum_common_name": "minute",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "h",
+    "ucum_print_symbol": "h",
+    "ucum_names": [
+      "hour"
+    ],
+    "ucum_common_name": "hour",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "d",
+    "ucum_print_symbol": "d",
+    "ucum_names": [
+      "day"
+    ],
+    "ucum_common_name": "day",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "a_t",
+    "ucum_print_symbol": "a_t",
+    "ucum_names": [
+      "tropical year"
+    ],
+    "ucum_common_name": "tropical year",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "a_j",
+    "ucum_print_symbol": "a_j",
+    "ucum_names": [
+      "mean Julian year"
+    ],
+    "ucum_common_name": "mean Julian year",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "a_g",
+    "ucum_print_symbol": "a_g",
+    "ucum_names": [
+      "mean Gregorian year"
+    ],
+    "ucum_common_name": "mean Gregorian year",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "a",
+    "ucum_print_symbol": "a",
+    "ucum_names": [
+      "year"
+    ],
+    "ucum_common_name": "year",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "wk",
+    "ucum_print_symbol": "wk",
+    "ucum_names": [
+      "week"
+    ],
+    "ucum_common_name": "week",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "mo_s",
+    "ucum_print_symbol": "mo_s",
+    "ucum_names": [
+      "synodal month"
+    ],
+    "ucum_common_name": "synodal month",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "mo_j",
+    "ucum_print_symbol": "mo_j",
+    "ucum_names": [
+      "mean Julian month"
+    ],
+    "ucum_common_name": "mean Julian month",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "mo_g",
+    "ucum_print_symbol": "mo_g",
+    "ucum_names": [
+      "mean Gregorian month"
+    ],
+    "ucum_common_name": "mean Gregorian month",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "mo",
+    "ucum_print_symbol": "mo",
+    "ucum_names": [
+      "month"
+    ],
+    "ucum_common_name": "month",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "t",
+    "ucum_print_symbol": "t",
+    "ucum_names": [
+      "tonne"
+    ],
+    "ucum_common_name": "tonne",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "bar",
+    "ucum_print_symbol": "bar",
+    "ucum_names": [
+      "bar"
+    ],
+    "ucum_common_name": "bar",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "u",
+    "ucum_print_symbol": "u",
+    "ucum_names": [
+      "unified atomic mass unit"
+    ],
+    "ucum_common_name": "unified atomic mass unit",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "eV",
+    "ucum_print_symbol": "eV",
+    "ucum_names": [
+      "electronvolt"
+    ],
+    "ucum_common_name": "electronvolt",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "AU",
+    "ucum_print_symbol": "AU",
+    "ucum_names": [
+      "astronomic unit"
+    ],
+    "ucum_common_name": "astronomic unit",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "pc",
+    "ucum_print_symbol": "pc",
+    "ucum_names": [
+      "parsec"
+    ],
+    "ucum_common_name": "parsec",
+    "ucum_dimension": null,
+    "ucum_class": "iso1000"
+  },
+  {
+    "ucum_code": "[c]",
+    "ucum_print_symbol": "[c]",
+    "ucum_names": [
+      "velocity of light"
+    ],
+    "ucum_common_name": "velocity of light",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[h]",
+    "ucum_print_symbol": "[h]",
+    "ucum_names": [
+      "Planck constant"
+    ],
+    "ucum_common_name": "Planck constant",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[k]",
+    "ucum_print_symbol": "[k]",
+    "ucum_names": [
+      "Boltzmann constant"
+    ],
+    "ucum_common_name": "Boltzmann constant",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[eps_0]",
+    "ucum_print_symbol": "[eps_0]",
+    "ucum_names": [
+      "permittivity of vacuum"
+    ],
+    "ucum_common_name": "permittivity of vacuum",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[mu_0]",
+    "ucum_print_symbol": "[mu_0]",
+    "ucum_names": [
+      "permeability of vacuum"
+    ],
+    "ucum_common_name": "permeability of vacuum",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[e]",
+    "ucum_print_symbol": "[e]",
+    "ucum_names": [
+      "elementary charge"
+    ],
+    "ucum_common_name": "elementary charge",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[m_e]",
+    "ucum_print_symbol": "[m_e]",
+    "ucum_names": [
+      "electron mass"
+    ],
+    "ucum_common_name": "electron mass",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[m_p]",
+    "ucum_print_symbol": "[m_p]",
+    "ucum_names": [
+      "proton mass"
+    ],
+    "ucum_common_name": "proton mass",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[G]",
+    "ucum_print_symbol": "[G]",
+    "ucum_names": [
+      "Newtonian constant of gravitation"
+    ],
+    "ucum_common_name": "Newtonian constant of gravitation",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[g]",
+    "ucum_print_symbol": "[g]",
+    "ucum_names": [
+      "standard acceleration of free fall"
+    ],
+    "ucum_common_name": "standard acceleration of free fall",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "atm",
+    "ucum_print_symbol": "atm",
+    "ucum_names": [
+      "standard atmosphere"
+    ],
+    "ucum_common_name": "standard atmosphere",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[ly]",
+    "ucum_print_symbol": "[ly]",
+    "ucum_names": [
+      "light-year"
+    ],
+    "ucum_common_name": "light-year",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "gf",
+    "ucum_print_symbol": "gf",
+    "ucum_names": [
+      "gram-force"
+    ],
+    "ucum_common_name": "gram-force",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "[lbf_av]",
+    "ucum_print_symbol": "[lbf_av]",
+    "ucum_names": [
+      "pound force"
+    ],
+    "ucum_common_name": "pound force",
+    "ucum_dimension": null,
+    "ucum_class": "const"
+  },
+  {
+    "ucum_code": "Ky",
+    "ucum_print_symbol": "Ky",
+    "ucum_names": [
+      "Kayser"
+    ],
+    "ucum_common_name": "Kayser",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "Gal",
+    "ucum_print_symbol": "Gal",
+    "ucum_names": [
+      "Gal"
+    ],
+    "ucum_common_name": "Gal",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "dyn",
+    "ucum_print_symbol": "dyn",
+    "ucum_names": [
+      "dyne"
+    ],
+    "ucum_common_name": "dyne",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "erg",
+    "ucum_print_symbol": "erg",
+    "ucum_names": [
+      "erg"
+    ],
+    "ucum_common_name": "erg",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "P",
+    "ucum_print_symbol": "P",
+    "ucum_names": [
+      "Poise"
+    ],
+    "ucum_common_name": "Poise",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "Bi",
+    "ucum_print_symbol": "Bi",
+    "ucum_names": [
+      "Biot"
+    ],
+    "ucum_common_name": "Biot",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "St",
+    "ucum_print_symbol": "St",
+    "ucum_names": [
+      "Stokes"
+    ],
+    "ucum_common_name": "Stokes",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "Mx",
+    "ucum_print_symbol": "Mx",
+    "ucum_names": [
+      "Maxwell"
+    ],
+    "ucum_common_name": "Maxwell",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "G",
+    "ucum_print_symbol": "G",
+    "ucum_names": [
+      "Gauss"
+    ],
+    "ucum_common_name": "Gauss",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "Oe",
+    "ucum_print_symbol": "Oe",
+    "ucum_names": [
+      "Oersted"
+    ],
+    "ucum_common_name": "Oersted",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "Gb",
+    "ucum_print_symbol": "Gb",
+    "ucum_names": [
+      "Gilbert"
+    ],
+    "ucum_common_name": "Gilbert",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "sb",
+    "ucum_print_symbol": "sb",
+    "ucum_names": [
+      "stilb"
+    ],
+    "ucum_common_name": "stilb",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "Lmb",
+    "ucum_print_symbol": "Lmb",
+    "ucum_names": [
+      "Lambert"
+    ],
+    "ucum_common_name": "Lambert",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "ph",
+    "ucum_print_symbol": "ph",
+    "ucum_names": [
+      "phot"
+    ],
+    "ucum_common_name": "phot",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "Ci",
+    "ucum_print_symbol": "Ci",
+    "ucum_names": [
+      "Curie"
+    ],
+    "ucum_common_name": "Curie",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "R",
+    "ucum_print_symbol": "R",
+    "ucum_names": [
+      "Roentgen"
+    ],
+    "ucum_common_name": "Roentgen",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "RAD",
+    "ucum_print_symbol": "RAD",
+    "ucum_names": [
+      "radiation absorbed dose"
+    ],
+    "ucum_common_name": "radiation absorbed dose",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "REM",
+    "ucum_print_symbol": "REM",
+    "ucum_names": [
+      "radiation equivalent man"
+    ],
+    "ucum_common_name": "radiation equivalent man",
+    "ucum_dimension": null,
+    "ucum_class": "cgs"
+  },
+  {
+    "ucum_code": "[in_i]",
+    "ucum_print_symbol": "[in_i]",
+    "ucum_names": [
+      "inch"
+    ],
+    "ucum_common_name": "inch",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[ft_i]",
+    "ucum_print_symbol": "[ft_i]",
+    "ucum_names": [
+      "foot"
+    ],
+    "ucum_common_name": "foot",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[yd_i]",
+    "ucum_print_symbol": "[yd_i]",
+    "ucum_names": [
+      "yard"
+    ],
+    "ucum_common_name": "yard",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[mi_i]",
+    "ucum_print_symbol": "[mi_i]",
+    "ucum_names": [
+      "mile"
+    ],
+    "ucum_common_name": "mile",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[fth_i]",
+    "ucum_print_symbol": "[fth_i]",
+    "ucum_names": [
+      "fathom"
+    ],
+    "ucum_common_name": "fathom",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[nmi_i]",
+    "ucum_print_symbol": "[nmi_i]",
+    "ucum_names": [
+      "nautical mile"
+    ],
+    "ucum_common_name": "nautical mile",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[kn_i]",
+    "ucum_print_symbol": "[kn_i]",
+    "ucum_names": [
+      "knot"
+    ],
+    "ucum_common_name": "knot",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[sin_i]",
+    "ucum_print_symbol": "[sin_i]",
+    "ucum_names": [
+      "square inch"
+    ],
+    "ucum_common_name": "square inch",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[sft_i]",
+    "ucum_print_symbol": "[sft_i]",
+    "ucum_names": [
+      "square foot"
+    ],
+    "ucum_common_name": "square foot",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[syd_i]",
+    "ucum_print_symbol": "[syd_i]",
+    "ucum_names": [
+      "square yard"
+    ],
+    "ucum_common_name": "square yard",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[cin_i]",
+    "ucum_print_symbol": "[cin_i]",
+    "ucum_names": [
+      "cubic inch"
+    ],
+    "ucum_common_name": "cubic inch",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[cft_i]",
+    "ucum_print_symbol": "[cft_i]",
+    "ucum_names": [
+      "cubic foot"
+    ],
+    "ucum_common_name": "cubic foot",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[cyd_i]",
+    "ucum_print_symbol": "[cyd_i]",
+    "ucum_names": [
+      "cubic yard"
+    ],
+    "ucum_common_name": "cubic yard",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[bf_i]",
+    "ucum_print_symbol": "[bf_i]",
+    "ucum_names": [
+      "board foot"
+    ],
+    "ucum_common_name": "board foot",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[cr_i]",
+    "ucum_print_symbol": "[cr_i]",
+    "ucum_names": [
+      "cord"
+    ],
+    "ucum_common_name": "cord",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[mil_i]",
+    "ucum_print_symbol": "[mil_i]",
+    "ucum_names": [
+      "mil"
+    ],
+    "ucum_common_name": "mil",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[cml_i]",
+    "ucum_print_symbol": "[cml_i]",
+    "ucum_names": [
+      "circular mil"
+    ],
+    "ucum_common_name": "circular mil",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[hd_i]",
+    "ucum_print_symbol": "[hd_i]",
+    "ucum_names": [
+      "hand"
+    ],
+    "ucum_common_name": "hand",
+    "ucum_dimension": null,
+    "ucum_class": "intcust"
+  },
+  {
+    "ucum_code": "[ft_us]",
+    "ucum_print_symbol": "[ft_us]",
+    "ucum_names": [
+      "foot"
+    ],
+    "ucum_common_name": "foot",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[yd_us]",
+    "ucum_print_symbol": "[yd_us]",
+    "ucum_names": [
+      "yard"
+    ],
+    "ucum_common_name": "yard",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[in_us]",
+    "ucum_print_symbol": "[in_us]",
+    "ucum_names": [
+      "inch"
+    ],
+    "ucum_common_name": "inch",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[rd_us]",
+    "ucum_print_symbol": "[rd_us]",
+    "ucum_names": [
+      "rod"
+    ],
+    "ucum_common_name": "rod",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[ch_us]",
+    "ucum_print_symbol": "[ch_us]",
+    "ucum_names": [
+      "Gunter's chain",
+      "Surveyor's chain"
+    ],
+    "ucum_common_name": "Gunter's chain",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[lk_us]",
+    "ucum_print_symbol": "[lk_us]",
+    "ucum_names": [
+      "link for Gunter's chain"
+    ],
+    "ucum_common_name": "link for Gunter's chain",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[rch_us]",
+    "ucum_print_symbol": "[rch_us]",
+    "ucum_names": [
+      "Ramden's chain",
+      "Engineer's chain"
+    ],
+    "ucum_common_name": "Ramden's chain",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[rlk_us]",
+    "ucum_print_symbol": "[rlk_us]",
+    "ucum_names": [
+      "link for Ramden's chain"
+    ],
+    "ucum_common_name": "link for Ramden's chain",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[fth_us]",
+    "ucum_print_symbol": "[fth_us]",
+    "ucum_names": [
+      "fathom"
+    ],
+    "ucum_common_name": "fathom",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[fur_us]",
+    "ucum_print_symbol": "[fur_us]",
+    "ucum_names": [
+      "furlong"
+    ],
+    "ucum_common_name": "furlong",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[mi_us]",
+    "ucum_print_symbol": "[mi_us]",
+    "ucum_names": [
+      "mile"
+    ],
+    "ucum_common_name": "mile",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[acr_us]",
+    "ucum_print_symbol": "[acr_us]",
+    "ucum_names": [
+      "acre"
+    ],
+    "ucum_common_name": "acre",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[srd_us]",
+    "ucum_print_symbol": "[srd_us]",
+    "ucum_names": [
+      "square rod"
+    ],
+    "ucum_common_name": "square rod",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[smi_us]",
+    "ucum_print_symbol": "[smi_us]",
+    "ucum_names": [
+      "square mile"
+    ],
+    "ucum_common_name": "square mile",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[sct]",
+    "ucum_print_symbol": "[sct]",
+    "ucum_names": [
+      "section"
+    ],
+    "ucum_common_name": "section",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[twp]",
+    "ucum_print_symbol": "[twp]",
+    "ucum_names": [
+      "township"
+    ],
+    "ucum_common_name": "township",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[mil_us]",
+    "ucum_print_symbol": "[mil_us]",
+    "ucum_names": [
+      "mil"
+    ],
+    "ucum_common_name": "mil",
+    "ucum_dimension": null,
+    "ucum_class": "us-lengths"
+  },
+  {
+    "ucum_code": "[in_br]",
+    "ucum_print_symbol": "[in_br]",
+    "ucum_names": [
+      "inch"
+    ],
+    "ucum_common_name": "inch",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[ft_br]",
+    "ucum_print_symbol": "[ft_br]",
+    "ucum_names": [
+      "foot"
+    ],
+    "ucum_common_name": "foot",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[rd_br]",
+    "ucum_print_symbol": "[rd_br]",
+    "ucum_names": [
+      "rod"
+    ],
+    "ucum_common_name": "rod",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[ch_br]",
+    "ucum_print_symbol": "[ch_br]",
+    "ucum_names": [
+      "Gunter's chain"
+    ],
+    "ucum_common_name": "Gunter's chain",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[lk_br]",
+    "ucum_print_symbol": "[lk_br]",
+    "ucum_names": [
+      "link for Gunter's chain"
+    ],
+    "ucum_common_name": "link for Gunter's chain",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[fth_br]",
+    "ucum_print_symbol": "[fth_br]",
+    "ucum_names": [
+      "fathom"
+    ],
+    "ucum_common_name": "fathom",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[pc_br]",
+    "ucum_print_symbol": "[pc_br]",
+    "ucum_names": [
+      "pace"
+    ],
+    "ucum_common_name": "pace",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[yd_br]",
+    "ucum_print_symbol": "[yd_br]",
+    "ucum_names": [
+      "yard"
+    ],
+    "ucum_common_name": "yard",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[mi_br]",
+    "ucum_print_symbol": "[mi_br]",
+    "ucum_names": [
+      "mile"
+    ],
+    "ucum_common_name": "mile",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[nmi_br]",
+    "ucum_print_symbol": "[nmi_br]",
+    "ucum_names": [
+      "nautical mile"
+    ],
+    "ucum_common_name": "nautical mile",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[kn_br]",
+    "ucum_print_symbol": "[kn_br]",
+    "ucum_names": [
+      "knot"
+    ],
+    "ucum_common_name": "knot",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[acr_br]",
+    "ucum_print_symbol": "[acr_br]",
+    "ucum_names": [
+      "acre"
+    ],
+    "ucum_common_name": "acre",
+    "ucum_dimension": null,
+    "ucum_class": "brit-length"
+  },
+  {
+    "ucum_code": "[gal_us]",
+    "ucum_print_symbol": "[gal_us]",
+    "ucum_names": [
+      "Queen\u00a0Anne's wine gallon"
+    ],
+    "ucum_common_name": "Queen\u00a0Anne's wine gallon",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[bbl_us]",
+    "ucum_print_symbol": "[bbl_us]",
+    "ucum_names": [
+      "barrel"
+    ],
+    "ucum_common_name": "barrel",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[qt_us]",
+    "ucum_print_symbol": "[qt_us]",
+    "ucum_names": [
+      "quart"
+    ],
+    "ucum_common_name": "quart",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[pt_us]",
+    "ucum_print_symbol": "[pt_us]",
+    "ucum_names": [
+      "pint"
+    ],
+    "ucum_common_name": "pint",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[gil_us]",
+    "ucum_print_symbol": "[gil_us]",
+    "ucum_names": [
+      "gill"
+    ],
+    "ucum_common_name": "gill",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[foz_us]",
+    "ucum_print_symbol": "[foz_us]",
+    "ucum_names": [
+      "fluid ounce"
+    ],
+    "ucum_common_name": "fluid ounce",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[fdr_us]",
+    "ucum_print_symbol": "[fdr_us]",
+    "ucum_names": [
+      "fluid dram"
+    ],
+    "ucum_common_name": "fluid dram",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[min_us]",
+    "ucum_print_symbol": "[min_us]",
+    "ucum_names": [
+      "minim"
+    ],
+    "ucum_common_name": "minim",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[crd_us]",
+    "ucum_print_symbol": "[crd_us]",
+    "ucum_names": [
+      "cord"
+    ],
+    "ucum_common_name": "cord",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[bu_us]",
+    "ucum_print_symbol": "[bu_us]",
+    "ucum_names": [
+      "bushel"
+    ],
+    "ucum_common_name": "bushel",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[gal_wi]",
+    "ucum_print_symbol": "[gal_wi]",
+    "ucum_names": [
+      "historical winchester gallon"
+    ],
+    "ucum_common_name": "historical winchester gallon",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[pk_us]",
+    "ucum_print_symbol": "[pk_us]",
+    "ucum_names": [
+      "peck"
+    ],
+    "ucum_common_name": "peck",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[dqt_us]",
+    "ucum_print_symbol": "[dqt_us]",
+    "ucum_names": [
+      "dry quart"
+    ],
+    "ucum_common_name": "dry quart",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[dpt_us]",
+    "ucum_print_symbol": "[dpt_us]",
+    "ucum_names": [
+      "dry pint"
+    ],
+    "ucum_common_name": "dry pint",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[tbs_us]",
+    "ucum_print_symbol": "[tbs_us]",
+    "ucum_names": [
+      "tablespoon"
+    ],
+    "ucum_common_name": "tablespoon",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[tsp_us]",
+    "ucum_print_symbol": "[tsp_us]",
+    "ucum_names": [
+      "teaspoon"
+    ],
+    "ucum_common_name": "teaspoon",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[cup_us]",
+    "ucum_print_symbol": "[cup_us]",
+    "ucum_names": [
+      "cup"
+    ],
+    "ucum_common_name": "cup",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[foz_m]",
+    "ucum_print_symbol": "[foz_m]",
+    "ucum_names": [
+      "metric fluid ounce"
+    ],
+    "ucum_common_name": "metric fluid ounce",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[cup_m]",
+    "ucum_print_symbol": "[cup_m]",
+    "ucum_names": [
+      "metric cup"
+    ],
+    "ucum_common_name": "metric cup",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[tsp_m]",
+    "ucum_print_symbol": "[tsp_m]",
+    "ucum_names": [
+      "metric teaspoon"
+    ],
+    "ucum_common_name": "metric teaspoon",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[tbs_m]",
+    "ucum_print_symbol": "[tbs_m]",
+    "ucum_names": [
+      "metric tablespoon"
+    ],
+    "ucum_common_name": "metric tablespoon",
+    "ucum_dimension": null,
+    "ucum_class": "us-volumes"
+  },
+  {
+    "ucum_code": "[gal_br]",
+    "ucum_print_symbol": "[gal_br]",
+    "ucum_names": [
+      "gallon"
+    ],
+    "ucum_common_name": "gallon",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[pk_br]",
+    "ucum_print_symbol": "[pk_br]",
+    "ucum_names": [
+      "peck"
+    ],
+    "ucum_common_name": "peck",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[bu_br]",
+    "ucum_print_symbol": "[bu_br]",
+    "ucum_names": [
+      "bushel"
+    ],
+    "ucum_common_name": "bushel",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[qt_br]",
+    "ucum_print_symbol": "[qt_br]",
+    "ucum_names": [
+      "quart"
+    ],
+    "ucum_common_name": "quart",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[pt_br]",
+    "ucum_print_symbol": "[pt_br]",
+    "ucum_names": [
+      "pint"
+    ],
+    "ucum_common_name": "pint",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[gil_br]",
+    "ucum_print_symbol": "[gil_br]",
+    "ucum_names": [
+      "gill"
+    ],
+    "ucum_common_name": "gill",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[foz_br]",
+    "ucum_print_symbol": "[foz_br]",
+    "ucum_names": [
+      "fluid ounce"
+    ],
+    "ucum_common_name": "fluid ounce",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[fdr_br]",
+    "ucum_print_symbol": "[fdr_br]",
+    "ucum_names": [
+      "fluid dram"
+    ],
+    "ucum_common_name": "fluid dram",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[min_br]",
+    "ucum_print_symbol": "[min_br]",
+    "ucum_names": [
+      "minim"
+    ],
+    "ucum_common_name": "minim",
+    "ucum_dimension": null,
+    "ucum_class": "brit-volumes"
+  },
+  {
+    "ucum_code": "[gr]",
+    "ucum_print_symbol": "[gr]",
+    "ucum_names": [
+      "grain"
+    ],
+    "ucum_common_name": "grain",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[lb_av]",
+    "ucum_print_symbol": "[lb_av]",
+    "ucum_names": [
+      "pound"
+    ],
+    "ucum_common_name": "pound",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[oz_av]",
+    "ucum_print_symbol": "[oz_av]",
+    "ucum_names": [
+      "ounce"
+    ],
+    "ucum_common_name": "ounce",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[dr_av]",
+    "ucum_print_symbol": "[dr_av]",
+    "ucum_names": [
+      "dram"
+    ],
+    "ucum_common_name": "dram",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[scwt_av]",
+    "ucum_print_symbol": "[scwt_av]",
+    "ucum_names": [
+      "short hundredweight",
+      "U.S. hundredweight"
+    ],
+    "ucum_common_name": "short hundredweight",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[lcwt_av]",
+    "ucum_print_symbol": "[lcwt_av]",
+    "ucum_names": [
+      "long hundredweight",
+      "British hundredweight"
+    ],
+    "ucum_common_name": "long hundredweight",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[ston_av]",
+    "ucum_print_symbol": "[ston_av]",
+    "ucum_names": [
+      "short ton",
+      "U.S. ton"
+    ],
+    "ucum_common_name": "short ton",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[lton_av]",
+    "ucum_print_symbol": "[lton_av]",
+    "ucum_names": [
+      "long ton",
+      "British ton"
+    ],
+    "ucum_common_name": "long ton",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[stone_av]",
+    "ucum_print_symbol": "[stone_av]",
+    "ucum_names": [
+      "stone",
+      "British stone"
+    ],
+    "ucum_common_name": "stone",
+    "ucum_dimension": null,
+    "ucum_class": "avoirdupois"
+  },
+  {
+    "ucum_code": "[pwt_tr]",
+    "ucum_print_symbol": "[pwt_tr]",
+    "ucum_names": [
+      "pennyweight"
+    ],
+    "ucum_common_name": "pennyweight",
+    "ucum_dimension": null,
+    "ucum_class": "troy"
+  },
+  {
+    "ucum_code": "[oz_tr]",
+    "ucum_print_symbol": "[oz_tr]",
+    "ucum_names": [
+      "ounce"
+    ],
+    "ucum_common_name": "ounce",
+    "ucum_dimension": null,
+    "ucum_class": "troy"
+  },
+  {
+    "ucum_code": "[lb_tr]",
+    "ucum_print_symbol": "[lb_tr]",
+    "ucum_names": [
+      "pound"
+    ],
+    "ucum_common_name": "pound",
+    "ucum_dimension": null,
+    "ucum_class": "troy"
+  },
+  {
+    "ucum_code": "[sc_ap]",
+    "ucum_print_symbol": "[sc_ap]",
+    "ucum_names": [
+      "scruple"
+    ],
+    "ucum_common_name": "scruple",
+    "ucum_dimension": null,
+    "ucum_class": "apoth"
+  },
+  {
+    "ucum_code": "[dr_ap]",
+    "ucum_print_symbol": "[dr_ap]",
+    "ucum_names": [
+      "dram",
+      "drachm"
+    ],
+    "ucum_common_name": "dram",
+    "ucum_dimension": null,
+    "ucum_class": "apoth"
+  },
+  {
+    "ucum_code": "[oz_ap]",
+    "ucum_print_symbol": "[oz_ap]",
+    "ucum_names": [
+      "ounce"
+    ],
+    "ucum_common_name": "ounce",
+    "ucum_dimension": null,
+    "ucum_class": "apoth"
+  },
+  {
+    "ucum_code": "[lb_ap]",
+    "ucum_print_symbol": "[lb_ap]",
+    "ucum_names": [
+      "pound"
+    ],
+    "ucum_common_name": "pound",
+    "ucum_dimension": null,
+    "ucum_class": "apoth"
+  },
+  {
+    "ucum_code": "[oz_m]",
+    "ucum_print_symbol": "[oz_m]",
+    "ucum_names": [
+      "metric ounce"
+    ],
+    "ucum_common_name": "metric ounce",
+    "ucum_dimension": null,
+    "ucum_class": "apoth"
+  },
+  {
+    "ucum_code": "[lne]",
+    "ucum_print_symbol": "[lne]",
+    "ucum_names": [
+      "line"
+    ],
+    "ucum_common_name": "line",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[pnt]",
+    "ucum_print_symbol": "[pnt]",
+    "ucum_names": [
+      "point"
+    ],
+    "ucum_common_name": "point",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[pca]",
+    "ucum_print_symbol": "[pca]",
+    "ucum_names": [
+      "pica"
+    ],
+    "ucum_common_name": "pica",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[pnt_pr]",
+    "ucum_print_symbol": "[pnt_pr]",
+    "ucum_names": [
+      "Printer's point"
+    ],
+    "ucum_common_name": "Printer's point",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[pca_pr]",
+    "ucum_print_symbol": "[pca_pr]",
+    "ucum_names": [
+      "Printer's pica"
+    ],
+    "ucum_common_name": "Printer's pica",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[pied]",
+    "ucum_print_symbol": "[pied]",
+    "ucum_names": [
+      "pied",
+      "French foot"
+    ],
+    "ucum_common_name": "pied",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[pouce]",
+    "ucum_print_symbol": "[pouce]",
+    "ucum_names": [
+      "pouce",
+      "French inch"
+    ],
+    "ucum_common_name": "pouce",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[ligne]",
+    "ucum_print_symbol": "[ligne]",
+    "ucum_names": [
+      "ligne",
+      "French line"
+    ],
+    "ucum_common_name": "ligne",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[didot]",
+    "ucum_print_symbol": "[didot]",
+    "ucum_names": [
+      "didot",
+      "Didot's point"
+    ],
+    "ucum_common_name": "didot",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[cicero]",
+    "ucum_print_symbol": "[cicero]",
+    "ucum_names": [
+      "cicero",
+      "Didot's pica"
+    ],
+    "ucum_common_name": "cicero",
+    "ucum_dimension": null,
+    "ucum_class": "typeset"
+  },
+  {
+    "ucum_code": "[degF]",
+    "ucum_print_symbol": "[degF]",
+    "ucum_names": [
+      "degree Fahrenheit"
+    ],
+    "ucum_common_name": "degree Fahrenheit",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[degR]",
+    "ucum_print_symbol": "[degR]",
+    "ucum_names": [
+      "degree Rankine"
+    ],
+    "ucum_common_name": "degree Rankine",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[degRe]",
+    "ucum_print_symbol": "[degRe]",
+    "ucum_names": [
+      "degree R\u00e9aumur"
+    ],
+    "ucum_common_name": "degree R\u00e9aumur",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "cal_[15]",
+    "ucum_print_symbol": "cal_[15]",
+    "ucum_names": [
+      "calorie at 15\u00a0\u00b0C"
+    ],
+    "ucum_common_name": "calorie at 15\u00a0\u00b0C",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "cal_[20]",
+    "ucum_print_symbol": "cal_[20]",
+    "ucum_names": [
+      "calorie at 20\u00a0\u00b0C"
+    ],
+    "ucum_common_name": "calorie at 20\u00a0\u00b0C",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "cal_m",
+    "ucum_print_symbol": "cal_m",
+    "ucum_names": [
+      "mean calorie"
+    ],
+    "ucum_common_name": "mean calorie",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "cal_IT",
+    "ucum_print_symbol": "cal_IT",
+    "ucum_names": [
+      "international table calorie"
+    ],
+    "ucum_common_name": "international table calorie",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "cal_th",
+    "ucum_print_symbol": "cal_th",
+    "ucum_names": [
+      "thermochemical calorie"
+    ],
+    "ucum_common_name": "thermochemical calorie",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "cal",
+    "ucum_print_symbol": "cal",
+    "ucum_names": [
+      "calorie"
+    ],
+    "ucum_common_name": "calorie",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Cal]",
+    "ucum_print_symbol": "[Cal]",
+    "ucum_names": [
+      "nutrition label Calories"
+    ],
+    "ucum_common_name": "nutrition label Calories",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Btu_39]",
+    "ucum_print_symbol": "[Btu_39]",
+    "ucum_names": [
+      "British thermal unit at 39\u00a0\u00b0F"
+    ],
+    "ucum_common_name": "British thermal unit at 39\u00a0\u00b0F",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Btu_59]",
+    "ucum_print_symbol": "[Btu_59]",
+    "ucum_names": [
+      "British thermal unit at 59\u00a0\u00b0F"
+    ],
+    "ucum_common_name": "British thermal unit at 59\u00a0\u00b0F",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Btu_60]",
+    "ucum_print_symbol": "[Btu_60]",
+    "ucum_names": [
+      "British thermal unit at 60\u00a0\u00b0F"
+    ],
+    "ucum_common_name": "British thermal unit at 60\u00a0\u00b0F",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Btu_m]",
+    "ucum_print_symbol": "[Btu_m]",
+    "ucum_names": [
+      "mean British thermal unit"
+    ],
+    "ucum_common_name": "mean British thermal unit",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Btu_IT]",
+    "ucum_print_symbol": "[Btu_IT]",
+    "ucum_names": [
+      "international table British thermal unit"
+    ],
+    "ucum_common_name": "international table British thermal unit",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Btu_th]",
+    "ucum_print_symbol": "[Btu_th]",
+    "ucum_names": [
+      "thermochemical British thermal unit"
+    ],
+    "ucum_common_name": "thermochemical British thermal unit",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[Btu]",
+    "ucum_print_symbol": "[Btu]",
+    "ucum_names": [
+      "British thermal unit"
+    ],
+    "ucum_common_name": "British thermal unit",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[HP]",
+    "ucum_print_symbol": "[HP]",
+    "ucum_names": [
+      "horsepower"
+    ],
+    "ucum_common_name": "horsepower",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "tex",
+    "ucum_print_symbol": "tex",
+    "ucum_names": [
+      "tex"
+    ],
+    "ucum_common_name": "tex",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "[den]",
+    "ucum_print_symbol": "[den]",
+    "ucum_names": [
+      "Denier"
+    ],
+    "ucum_common_name": "Denier",
+    "ucum_dimension": null,
+    "ucum_class": "heat"
+  },
+  {
+    "ucum_code": "m[H2O]",
+    "ucum_print_symbol": "m[H2O]",
+    "ucum_names": [
+      "meter of water column"
+    ],
+    "ucum_common_name": "meter of water column",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "m[Hg]",
+    "ucum_print_symbol": "m[Hg]",
+    "ucum_names": [
+      "meter of mercury column"
+    ],
+    "ucum_common_name": "meter of mercury column",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[in_i'H2O]",
+    "ucum_print_symbol": "[in_i'H2O]",
+    "ucum_names": [
+      "inch of water column"
+    ],
+    "ucum_common_name": "inch of water column",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[in_i'Hg]",
+    "ucum_print_symbol": "[in_i'Hg]",
+    "ucum_names": [
+      "inch of mercury column"
+    ],
+    "ucum_common_name": "inch of mercury column",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[PRU]",
+    "ucum_print_symbol": "[PRU]",
+    "ucum_names": [
+      "peripheral vascular resistance unit"
+    ],
+    "ucum_common_name": "peripheral vascular resistance unit",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[wood'U]",
+    "ucum_print_symbol": "[wood'U]",
+    "ucum_names": [
+      "Wood unit"
+    ],
+    "ucum_common_name": "Wood unit",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[diop]",
+    "ucum_print_symbol": "[diop]",
+    "ucum_names": [
+      "diopter"
+    ],
+    "ucum_common_name": "diopter",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[p'diop]",
+    "ucum_print_symbol": "[p'diop]",
+    "ucum_names": [
+      "prism diopter"
+    ],
+    "ucum_common_name": "prism diopter",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "%[slope]",
+    "ucum_print_symbol": "%[slope]",
+    "ucum_names": [
+      "percent of slope"
+    ],
+    "ucum_common_name": "percent of slope",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[mesh_i]",
+    "ucum_print_symbol": "[mesh_i]",
+    "ucum_names": [
+      "mesh"
+    ],
+    "ucum_common_name": "mesh",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[Ch]",
+    "ucum_print_symbol": "[Ch]",
+    "ucum_names": [
+      "Charri\u00e8re",
+      "french"
+    ],
+    "ucum_common_name": "Charri\u00e8re",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[drp]",
+    "ucum_print_symbol": "[drp]",
+    "ucum_names": [
+      "drop"
+    ],
+    "ucum_common_name": "drop",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hnsf'U]",
+    "ucum_print_symbol": "[hnsf'U]",
+    "ucum_names": [
+      "Hounsfield unit"
+    ],
+    "ucum_common_name": "Hounsfield unit",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[MET]",
+    "ucum_print_symbol": "[MET]",
+    "ucum_names": [
+      "metabolic equivalent"
+    ],
+    "ucum_common_name": "metabolic equivalent",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp'_X]",
+    "ucum_print_symbol": "[hp'_X]",
+    "ucum_names": [
+      "homeopathic potency of decimal series (retired)"
+    ],
+    "ucum_common_name": "homeopathic potency of decimal series (retired)",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp'_C]",
+    "ucum_print_symbol": "[hp'_C]",
+    "ucum_names": [
+      "homeopathic potency of centesimal series (retired)"
+    ],
+    "ucum_common_name": "homeopathic potency of centesimal series (retired)",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp'_M]",
+    "ucum_print_symbol": "[hp'_M]",
+    "ucum_names": [
+      "homeopathic potency of millesimal series (retired)"
+    ],
+    "ucum_common_name": "homeopathic potency of millesimal series (retired)",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp'_Q]",
+    "ucum_print_symbol": "[hp'_Q]",
+    "ucum_names": [
+      "homeopathic potency of quintamillesimal series (retired)"
+    ],
+    "ucum_common_name": "homeopathic potency of quintamillesimal series (retired)",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp_X]",
+    "ucum_print_symbol": "[hp_X]",
+    "ucum_names": [
+      "homeopathic potency of decimal hahnemannian series"
+    ],
+    "ucum_common_name": "homeopathic potency of decimal hahnemannian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp_C]",
+    "ucum_print_symbol": "[hp_C]",
+    "ucum_names": [
+      "homeopathic potency of centesimal hahnemannian series"
+    ],
+    "ucum_common_name": "homeopathic potency of centesimal hahnemannian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp_M]",
+    "ucum_print_symbol": "[hp_M]",
+    "ucum_names": [
+      "homeopathic potency of millesimal hahnemannian series"
+    ],
+    "ucum_common_name": "homeopathic potency of millesimal hahnemannian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[hp_Q]",
+    "ucum_print_symbol": "[hp_Q]",
+    "ucum_names": [
+      "homeopathic potency of quintamillesimal hahnemannian series"
+    ],
+    "ucum_common_name": "homeopathic potency of quintamillesimal hahnemannian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[kp_X]",
+    "ucum_print_symbol": "[kp_X]",
+    "ucum_names": [
+      "homeopathic potency of decimal korsakovian series"
+    ],
+    "ucum_common_name": "homeopathic potency of decimal korsakovian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[kp_C]",
+    "ucum_print_symbol": "[kp_C]",
+    "ucum_names": [
+      "homeopathic potency of centesimal korsakovian series"
+    ],
+    "ucum_common_name": "homeopathic potency of centesimal korsakovian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[kp_M]",
+    "ucum_print_symbol": "[kp_M]",
+    "ucum_names": [
+      "homeopathic potency of millesimal korsakovian series"
+    ],
+    "ucum_common_name": "homeopathic potency of millesimal korsakovian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "[kp_Q]",
+    "ucum_print_symbol": "[kp_Q]",
+    "ucum_names": [
+      "homeopathic potency of quintamillesimal korsakovian series"
+    ],
+    "ucum_common_name": "homeopathic potency of quintamillesimal korsakovian series",
+    "ucum_dimension": null,
+    "ucum_class": "clinical"
+  },
+  {
+    "ucum_code": "eq",
+    "ucum_print_symbol": "eq",
+    "ucum_names": [
+      "equivalents"
+    ],
+    "ucum_common_name": "equivalents",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "osm",
+    "ucum_print_symbol": "osm",
+    "ucum_names": [
+      "osmole"
+    ],
+    "ucum_common_name": "osmole",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[pH]",
+    "ucum_print_symbol": "[pH]",
+    "ucum_names": [
+      "pH"
+    ],
+    "ucum_common_name": "pH",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "g%",
+    "ucum_print_symbol": "g%",
+    "ucum_names": [
+      "gram percent"
+    ],
+    "ucum_common_name": "gram percent",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[S]",
+    "ucum_print_symbol": "[S]",
+    "ucum_names": [
+      "Svedberg unit"
+    ],
+    "ucum_common_name": "Svedberg unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[HPF]",
+    "ucum_print_symbol": "[HPF]",
+    "ucum_names": [
+      "high power field"
+    ],
+    "ucum_common_name": "high power field",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[LPF]",
+    "ucum_print_symbol": "[LPF]",
+    "ucum_names": [
+      "low power field"
+    ],
+    "ucum_common_name": "low power field",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "kat",
+    "ucum_print_symbol": "kat",
+    "ucum_names": [
+      "katal"
+    ],
+    "ucum_common_name": "katal",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "U",
+    "ucum_print_symbol": "U",
+    "ucum_names": [
+      "Unit"
+    ],
+    "ucum_common_name": "Unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[iU]",
+    "ucum_print_symbol": "[iU]",
+    "ucum_names": [
+      "international unit"
+    ],
+    "ucum_common_name": "international unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[IU]",
+    "ucum_print_symbol": "[IU]",
+    "ucum_names": [
+      "international unit"
+    ],
+    "ucum_common_name": "international unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[arb'U]",
+    "ucum_print_symbol": "[arb'U]",
+    "ucum_names": [
+      "arbitrary unit"
+    ],
+    "ucum_common_name": "arbitrary unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[USP'U]",
+    "ucum_print_symbol": "[USP'U]",
+    "ucum_names": [
+      "United States Pharmacopeia unit"
+    ],
+    "ucum_common_name": "United States Pharmacopeia unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[GPL'U]",
+    "ucum_print_symbol": "[GPL'U]",
+    "ucum_names": [
+      "GPL unit"
+    ],
+    "ucum_common_name": "GPL unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[MPL'U]",
+    "ucum_print_symbol": "[MPL'U]",
+    "ucum_names": [
+      "MPL unit"
+    ],
+    "ucum_common_name": "MPL unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[APL'U]",
+    "ucum_print_symbol": "[APL'U]",
+    "ucum_names": [
+      "APL unit"
+    ],
+    "ucum_common_name": "APL unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[beth'U]",
+    "ucum_print_symbol": "[beth'U]",
+    "ucum_names": [
+      "Bethesda unit"
+    ],
+    "ucum_common_name": "Bethesda unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[anti'Xa'U]",
+    "ucum_print_symbol": "[anti'Xa'U]",
+    "ucum_names": [
+      "anti factor Xa unit"
+    ],
+    "ucum_common_name": "anti factor Xa unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[todd'U]",
+    "ucum_print_symbol": "[todd'U]",
+    "ucum_names": [
+      "Todd unit"
+    ],
+    "ucum_common_name": "Todd unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[dye'U]",
+    "ucum_print_symbol": "[dye'U]",
+    "ucum_names": [
+      "Dye unit"
+    ],
+    "ucum_common_name": "Dye unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[smgy'U]",
+    "ucum_print_symbol": "[smgy'U]",
+    "ucum_names": [
+      "Somogyi unit"
+    ],
+    "ucum_common_name": "Somogyi unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[bdsk'U]",
+    "ucum_print_symbol": "[bdsk'U]",
+    "ucum_names": [
+      "Bodansky unit"
+    ],
+    "ucum_common_name": "Bodansky unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[ka'U]",
+    "ucum_print_symbol": "[ka'U]",
+    "ucum_names": [
+      "King-Armstrong unit"
+    ],
+    "ucum_common_name": "King-Armstrong unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[knk'U]",
+    "ucum_print_symbol": "[knk'U]",
+    "ucum_names": [
+      "Kunkel unit"
+    ],
+    "ucum_common_name": "Kunkel unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[mclg'U]",
+    "ucum_print_symbol": "[mclg'U]",
+    "ucum_names": [
+      "Mac Lagan unit"
+    ],
+    "ucum_common_name": "Mac Lagan unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[tb'U]",
+    "ucum_print_symbol": "[tb'U]",
+    "ucum_names": [
+      "tuberculin unit"
+    ],
+    "ucum_common_name": "tuberculin unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[CCID_50]",
+    "ucum_print_symbol": "[CCID_50]",
+    "ucum_names": [
+      "50% cell culture infectious dose"
+    ],
+    "ucum_common_name": "50% cell culture infectious dose",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[TCID_50]",
+    "ucum_print_symbol": "[TCID_50]",
+    "ucum_names": [
+      "50% tissue culture infectious dose"
+    ],
+    "ucum_common_name": "50% tissue culture infectious dose",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[EID_50]",
+    "ucum_print_symbol": "[EID_50]",
+    "ucum_names": [
+      "50% embryo infectious dose"
+    ],
+    "ucum_common_name": "50% embryo infectious dose",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[PFU]",
+    "ucum_print_symbol": "[PFU]",
+    "ucum_names": [
+      "plaque forming units"
+    ],
+    "ucum_common_name": "plaque forming units",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[FFU]",
+    "ucum_print_symbol": "[FFU]",
+    "ucum_names": [
+      "focus forming units"
+    ],
+    "ucum_common_name": "focus forming units",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[CFU]",
+    "ucum_print_symbol": "[CFU]",
+    "ucum_names": [
+      "colony forming units"
+    ],
+    "ucum_common_name": "colony forming units",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[IR]",
+    "ucum_print_symbol": "[IR]",
+    "ucum_names": [
+      "index of reactivity"
+    ],
+    "ucum_common_name": "index of reactivity",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[BAU]",
+    "ucum_print_symbol": "[BAU]",
+    "ucum_names": [
+      "bioequivalent allergen unit"
+    ],
+    "ucum_common_name": "bioequivalent allergen unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[AU]",
+    "ucum_print_symbol": "[AU]",
+    "ucum_names": [
+      "allergen unit"
+    ],
+    "ucum_common_name": "allergen unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[Amb'a'1'U]",
+    "ucum_print_symbol": "[Amb'a'1'U]",
+    "ucum_names": [
+      "allergen unit for Ambrosia artemisiifolia"
+    ],
+    "ucum_common_name": "allergen unit for Ambrosia artemisiifolia",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[PNU]",
+    "ucum_print_symbol": "[PNU]",
+    "ucum_names": [
+      "protein nitrogen unit"
+    ],
+    "ucum_common_name": "protein nitrogen unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[Lf]",
+    "ucum_print_symbol": "[Lf]",
+    "ucum_names": [
+      "Limit of flocculation"
+    ],
+    "ucum_common_name": "Limit of flocculation",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[D'ag'U]",
+    "ucum_print_symbol": "[D'ag'U]",
+    "ucum_names": [
+      "D-antigen unit"
+    ],
+    "ucum_common_name": "D-antigen unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[FEU]",
+    "ucum_print_symbol": "[FEU]",
+    "ucum_names": [
+      "fibrinogen equivalent unit"
+    ],
+    "ucum_common_name": "fibrinogen equivalent unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[ELU]",
+    "ucum_print_symbol": "[ELU]",
+    "ucum_names": [
+      "ELISA unit"
+    ],
+    "ucum_common_name": "ELISA unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "[EU]",
+    "ucum_print_symbol": "[EU]",
+    "ucum_names": [
+      "Ehrlich unit"
+    ],
+    "ucum_common_name": "Ehrlich unit",
+    "ucum_dimension": null,
+    "ucum_class": "chemical"
+  },
+  {
+    "ucum_code": "Np",
+    "ucum_print_symbol": "Np",
+    "ucum_names": [
+      "neper"
+    ],
+    "ucum_common_name": "neper",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B",
+    "ucum_print_symbol": "B",
+    "ucum_names": [
+      "bel"
+    ],
+    "ucum_common_name": "bel",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B[SPL]",
+    "ucum_print_symbol": "B[SPL]",
+    "ucum_names": [
+      "bel sound pressure"
+    ],
+    "ucum_common_name": "bel sound pressure",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B[V]",
+    "ucum_print_symbol": "B[V]",
+    "ucum_names": [
+      "bel volt"
+    ],
+    "ucum_common_name": "bel volt",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B[mV]",
+    "ucum_print_symbol": "B[mV]",
+    "ucum_names": [
+      "bel millivolt"
+    ],
+    "ucum_common_name": "bel millivolt",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B[uV]",
+    "ucum_print_symbol": "B[uV]",
+    "ucum_names": [
+      "bel microvolt"
+    ],
+    "ucum_common_name": "bel microvolt",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B[10.nV]",
+    "ucum_print_symbol": "B[10.nV]",
+    "ucum_names": [
+      "bel 10 nanovolt"
+    ],
+    "ucum_common_name": "bel 10 nanovolt",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B[W]",
+    "ucum_print_symbol": "B[W]",
+    "ucum_names": [
+      "bel watt"
+    ],
+    "ucum_common_name": "bel watt",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "B[kW]",
+    "ucum_print_symbol": "B[kW]",
+    "ucum_names": [
+      "bel kilowatt"
+    ],
+    "ucum_common_name": "bel kilowatt",
+    "ucum_dimension": null,
+    "ucum_class": "levels"
+  },
+  {
+    "ucum_code": "st",
+    "ucum_print_symbol": "st",
+    "ucum_names": [
+      "stere"
+    ],
+    "ucum_common_name": "stere",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "Ao",
+    "ucum_print_symbol": "Ao",
+    "ucum_names": [
+      "\u00c5ngstr\u00f6m"
+    ],
+    "ucum_common_name": "\u00c5ngstr\u00f6m",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "b",
+    "ucum_print_symbol": "b",
+    "ucum_names": [
+      "barn"
+    ],
+    "ucum_common_name": "barn",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "att",
+    "ucum_print_symbol": "att",
+    "ucum_names": [
+      "technical atmosphere"
+    ],
+    "ucum_common_name": "technical atmosphere",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "mho",
+    "ucum_print_symbol": "mho",
+    "ucum_names": [
+      "mho"
+    ],
+    "ucum_common_name": "mho",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "[psi]",
+    "ucum_print_symbol": "[psi]",
+    "ucum_names": [
+      "pound per square inch"
+    ],
+    "ucum_common_name": "pound per square inch",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "circ",
+    "ucum_print_symbol": "circ",
+    "ucum_names": [
+      "circle"
+    ],
+    "ucum_common_name": "circle",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "sph",
+    "ucum_print_symbol": "sph",
+    "ucum_names": [
+      "sphere"
+    ],
+    "ucum_common_name": "sphere",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "[car_m]",
+    "ucum_print_symbol": "[car_m]",
+    "ucum_names": [
+      "metric carat"
+    ],
+    "ucum_common_name": "metric carat",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "[car_Au]",
+    "ucum_print_symbol": "[car_Au]",
+    "ucum_names": [
+      "carat of gold alloys"
+    ],
+    "ucum_common_name": "carat of gold alloys",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "[smoot]",
+    "ucum_print_symbol": "[smoot]",
+    "ucum_names": [
+      "Smoot"
+    ],
+    "ucum_common_name": "Smoot",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "[m/s2/Hz^(1/2)]",
+    "ucum_print_symbol": "[m/s2/Hz^(1/2)]",
+    "ucum_names": [
+      "meter per square seconds per square root of hertz"
+    ],
+    "ucum_common_name": "meter per square seconds per square root of hertz",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "[NTU]",
+    "ucum_print_symbol": "[NTU]",
+    "ucum_names": [
+      "Nephelometric Turbidity Unit"
+    ],
+    "ucum_common_name": "Nephelometric Turbidity Unit",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "[FNU]",
+    "ucum_print_symbol": "[FNU]",
+    "ucum_names": [
+      "Formazin Nephelometric Unit"
+    ],
+    "ucum_common_name": "Formazin Nephelometric Unit",
+    "ucum_dimension": null,
+    "ucum_class": "misc"
+  },
+  {
+    "ucum_code": "bit_s",
+    "ucum_print_symbol": "bit_s",
+    "ucum_names": [
+      "bit"
+    ],
+    "ucum_common_name": "bit",
+    "ucum_dimension": null,
+    "ucum_class": "infotech"
+  },
+  {
+    "ucum_code": "bit",
+    "ucum_print_symbol": "bit",
+    "ucum_names": [
+      "bit"
+    ],
+    "ucum_common_name": "bit",
+    "ucum_dimension": null,
+    "ucum_class": "infotech"
+  },
+  {
+    "ucum_code": "By",
+    "ucum_print_symbol": "By",
+    "ucum_names": [
+      "byte"
+    ],
+    "ucum_common_name": "byte",
+    "ucum_dimension": null,
+    "ucum_class": "infotech"
+  },
+  {
+    "ucum_code": "Bd",
+    "ucum_print_symbol": "Bd",
+    "ucum_names": [
+      "baud"
+    ],
+    "ucum_common_name": "baud",
+    "ucum_dimension": null,
+    "ucum_class": "infotech"
+  }
+]

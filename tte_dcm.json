@@ -1,0 +1,44 @@
+[
+  {
+    "cid_source": "CID_12238",
+    "coding_scheme": "DCM",
+    "code_value": "125223",
+    "code_meaning": "4 Point Segment Finding Scale",
+    "ucum_unit": null
+  },
+  {
+    "cid_source": "CID_12238",
+    "coding_scheme": "DCM",
+    "code_value": "125224",
+    "code_meaning": "5 Point Segment Finding Scale",
+    "ucum_unit": null
+  },
+  {
+    "cid_source": "CID_12238",
+    "coding_scheme": "DCM",
+    "code_value": "125225",
+    "code_meaning": "5 Point Segment Finding Scale With Graded Hypokinesis",
+    "ucum_unit": null
+  },
+  {
+    "cid_source": "CID_12245",
+    "coding_scheme": "DCM",
+    "code_value": "125195",
+    "code_meaning": "Pediatric Cardiac Ultrasound Report",
+    "ucum_unit": null
+  },
+  {
+    "cid_source": "CID_12245",
+    "coding_scheme": "DCM",
+    "code_value": "125196",
+    "code_meaning": "Fetal Cardiac Ultrasound Report",
+    "ucum_unit": null
+  },
+  {
+    "cid_source": "CID_12245",
+    "coding_scheme": "DCM",
+    "code_value": "125197",
+    "code_meaning": "Adult Congenital Cardiac Ultrasound Report",
+    "ucum_unit": null
+  }
+]

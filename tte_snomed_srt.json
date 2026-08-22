@@ -1,0 +1,128 @@
+[
+  {
+    "cid_source": "CID_12234",
+    "coding_scheme": "SRT",
+    "code_value": "14910006",
+    "code_meaning": "Inspiration",
+    "ucum_unit": "F-20010"
+  },
+  {
+    "cid_source": "CID_12234",
+    "coding_scheme": "SRT",
+    "code_value": "58322009",
+    "code_meaning": "Expiration",
+    "ucum_unit": "F-20020"
+  },
+  {
+    "cid_source": "CID_12235",
+    "coding_scheme": "SRT",
+    "code_value": "399093001",
+    "code_meaning": "Medial Mitral Annulus",
+    "ucum_unit": "G-0391"
+  },
+  {
+    "cid_source": "CID_12235",
+    "coding_scheme": "SRT",
+    "code_value": "399086000",
+    "code_meaning": "Lateral Mitral Annulus",
+    "ucum_unit": "G-0392"
+  },
+  {
+    "cid_source": "CID_12235",
+    "coding_scheme": "SRT",
+    "code_value": "65197004",
+    "code_meaning": "Mitral Annulus",
+    "ucum_unit": "T-35310"
+  },
+  {
+    "cid_source": "CID_12239",
+    "coding_scheme": "SRT",
+    "code_value": "90096001",
+    "code_meaning": "Stroke Volume",
+    "ucum_unit": "F-32120"
+  },
+  {
+    "cid_source": "CID_12239",
+    "coding_scheme": "SRT",
+    "code_value": "82799009",
+    "code_meaning": "Cardiac Output",
+    "ucum_unit": "F-32100"
+  },
+  {
+    "cid_source": "CID_12239",
+    "coding_scheme": "SRT",
+    "code_value": "54993008",
+    "code_meaning": "Cardiac Index",
+    "ucum_unit": "F-32110"
+  },
+  {
+    "cid_source": "CID_12239",
+    "coding_scheme": "SRT",
+    "code_value": "277381004",
+    "code_meaning": "Stroke Index",
+    "ucum_unit": "F-00078"
+  },
+  {
+    "cid_source": "CID_12240",
+    "coding_scheme": "SRT",
+    "code_value": "399030000",
+    "code_meaning": "Left Ventricular Systolic Area",
+    "ucum_unit": "G-0374"
+  },
+  {
+    "cid_source": "CID_12240",
+    "coding_scheme": "SRT",
+    "code_value": "399109006",
+    "code_meaning": "Left Ventricular Diastolic Area",
+    "ucum_unit": "G-0375"
+  },
+  {
+    "cid_source": "CID_12240",
+    "coding_scheme": "SRT",
+    "code_value": "399287000",
+    "code_meaning": "Left Ventricular Fractional Area Change",
+    "ucum_unit": "G-0376"
+  },
+  {
+    "cid_source": "CID_12240",
+    "coding_scheme": "SRT",
+    "code_value": "399293008",
+    "code_meaning": "Left Ventricle Epicardial Diastolic Area, psax pap view",
+    "ucum_unit": "G-0379"
+  },
+  {
+    "cid_source": "CID_12241",
+    "coding_scheme": "SRT",
+    "code_value": "113259005",
+    "code_meaning": "Tricuspid Annulus",
+    "ucum_unit": "T-35110"
+  },
+  {
+    "cid_source": "CID_12242",
+    "coding_scheme": "SRT",
+    "code_value": "77583004",
+    "code_meaning": "Aortic Valve Ring",
+    "ucum_unit": "T-35410"
+  },
+  {
+    "cid_source": "CID_12243",
+    "coding_scheme": "SRT",
+    "code_value": "13418002",
+    "code_meaning": "Left Ventricle Outflow Tract",
+    "ucum_unit": "T-32650"
+  },
+  {
+    "cid_source": "CID_12244",
+    "coding_scheme": "SRT",
+    "code_value": "30288003",
+    "code_meaning": "Ventricular Septal Defect",
+    "ucum_unit": "D4-31150"
+  },
+  {
+    "cid_source": "CID_12244",
+    "coding_scheme": "SRT",
+    "code_value": "70142008",
+    "code_meaning": "Atrial Septal Defect",
+    "ucum_unit": "D4-31220"
+  }
+]
