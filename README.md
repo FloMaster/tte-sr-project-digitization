@@ -29,7 +29,7 @@ Each NUM item carries UCUM-compliant units and modifiers for **Finding Site**
 Because real echo images were not provided, the pipeline ships a **placeholder
 multi-frame ultrasound image**. The reports link each measurement to a frame via
 `ReferencedSOPSequence` / `ReferencedFrameNumber`, so clicking a measurement in
-Weasis jumps to its source frame.
+Weasis jumps to its source frame. (not sure if this one will work :/)
 
 ## Deliverables
 
