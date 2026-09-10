@@ -72,7 +72,6 @@ Requires Python 3.8+.
 ## Usage
 Run teh pipeline in this order:
 
-```bash
 # 1. Scrape sources and build the master table
 python tte_all_scrapers.py
 
@@ -96,7 +95,6 @@ Weasis:
  - Clicking a measurement jumps to the corresponding frame of the placeholder
 echo cine, demonstrating the ReferencedSOPSequence frame navigation.
 
-```bash
 proekt2.0/
 ├── tte_all_scrapers.py
 ├── curate_loinc.py
