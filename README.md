@@ -72,6 +72,11 @@ Requires Python 3.8+.
 ## Usage
 Run teh pipeline in this order:
 
+## Usage
+
+Run the pipeline in this order:
+
+```bash
 # 1. Scrape sources and build the master table
 python tte_all_scrapers.py
 
@@ -86,6 +91,7 @@ python tte_sr_generator.py --mode separate
 
 # 5. Generate the combined "assembled-from-three" report
 python tte_sr_generator.py --mode combined
+```
 
 ## Viewing the Reports
 Open placeholder_echo.dcm together with any of the .dcm SR files in
