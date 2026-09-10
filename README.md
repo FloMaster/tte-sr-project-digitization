@@ -73,21 +73,20 @@ Requires Python 3.8+.
 Run teh pipeline in this order:
 
 ```bash
-1. (Optional) Scrape sources and build the master table
+# 1. Scrape sources and build the master table
 python tte_all_scrapers.py
 
-2. Curate the LOINC measurement list
+# 2. Curate the LOINC measurement list
 python curate_loinc.py
 
-3. Generate the placeholder echo image (frame-navigation target)
+# 3. Generate the placeholder echo image (frame-navigation target)
 python make_placeholder_image.py
 
-4. Generate the three separate scheme-based reports
+# 4. Generate the three separate scheme-based reports
 python tte_sr_generator.py --mode separate
 
-5. Generate the combined &quot;assembled-from-three&quot; report
+# 5. Generate the combined "assembled-from-three" report
 python tte_sr_generator.py --mode combined
-```
 
 ## Viewing the Reports
 Open placeholder_echo.dcm together with any of the .dcm SR files in
