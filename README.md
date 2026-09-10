@@ -119,7 +119,6 @@ proekt2.0/
 ├── tte_dcm.json
 ├── ucum_units.json
 └── ucum-essence.xml/.zip
-```
 
 ## License
 This project is for academic/educational use. Coding-scheme data (LOINC, SNOMED
